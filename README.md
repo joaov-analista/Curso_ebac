@@ -14,3 +14,5 @@ o arquivo par_ou_impar.py é um programa do famoso jogo de par ou impar e é mui
 digite a opção que deseja (par ou impar) 
 digite um numero de 1 a 5 que voce deseja jogar
 ira aparecer o resultado do jogo, o numero que o programa jogou e o numero que voce jogou
+
+o arquivo cinema.py também é bem simples, detecta se um filme pode ser assistido de acordo com a idade 
