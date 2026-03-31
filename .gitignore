@@ -1,1 +1,5 @@
 .gitattributes
+data/raw/clientes_limpeza.csv
+data/raw/clientes-v2.csv
+*.csv
+data/raw/dados_tratados.parquet
